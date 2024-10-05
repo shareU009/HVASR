@@ -1,5 +1,5 @@
 # HVASR
-HVASR
+
 Hi! This is the official repository of paper "HVASR: Enhancing 360-Degree Video Delivery with Viewport-Aware Super-Resolution"
 The code will
 
@@ -14,7 +14,7 @@ We will be releasing the code related to this paper on GitHub, which will cover 
 
 - Data preprocessing
 - Model training and testing
-- Visualization of experimental results
+- Experimental results
 - Usage examples
 
 Please stay tuned as we will be updating the repository soon.
